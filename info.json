@@ -1,1 +1,27 @@
-
+{"name":"Seeds of Science",
+"tokenSymbol":null,
+"DaoOS":"Snapshot",
+"address":null,
+"description":"Seeds of Science is an open access journal publishing articles speculative or non-traditional articles from any scientific discipline. Our primary criterion can be distilled into one question - does your article contain original ideas or analysis that have the potential to advance science? The goal is to be as open-minded as possible about what qualifies as a useful scientific contribution (speculative hypotheses, proposals for experiments, perspectives, preliminary data analyses, etc.) and allow for a diversity of writing styles and formats (e.g. narratives, dialogues, etc.) so that authors can express their ideas in a clear and engaging manner. Peer review is conducted through community-based voting and commenting by our diverse network of reviewers ( gardeners, as we call them). ",
+"whitePaperLink":"https://www.theseedsofscience.org/manifesto",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/626Yalw.jpg",
+       "source": "image",
+       "link": "https://www.theseedsofscience.org/gardeners"
+   }],
+"deleted":false,
+"primaryColor":"#237a25",
+"twitterHandle":"@science_seeds",
+"coingeckoId":null,
+"snapshotId":null,
+"logo":"https://i.imgur.com/P2RJtU5.jpg",
+"telegramLink":null,
+"discordLink":null,
+"website":"https://www.theseedsofscience.org/",
+"tokenDescription":null,
+"tokenTradeLink":null,
+"tags":["Publishing"]
+  
+}
